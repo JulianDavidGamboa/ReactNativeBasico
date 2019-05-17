@@ -1,1 +1,1 @@
-<h1>React Native Basico</h1>
+<h1>React Native Basico con react-navigation</h1>
